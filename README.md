@@ -1,2 +1,3 @@
-# redis_dump_reader
-A redis dump.rdb reader in python
+# Image Sharer
+A simple image sharer between multiple clients.
+### note : IN progress.
