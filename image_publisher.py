@@ -5,3 +5,4 @@ class ImagePublisher(ImageProcessor):
         super().__init__()
 
     def publish(self):
+        pass
